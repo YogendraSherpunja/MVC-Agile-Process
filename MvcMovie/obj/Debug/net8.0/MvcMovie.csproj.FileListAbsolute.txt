@@ -32,3 +32,4 @@ C:\4th Semester\DevOps Implementation\MvcMovie\MvcMovie\obj\Debug\net8.0\refint\
 C:\4th Semester\DevOps Implementation\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 C:\4th Semester\DevOps Implementation\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 C:\4th Semester\DevOps Implementation\MvcMovie\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\4th Semester\DevOps Implementation\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
