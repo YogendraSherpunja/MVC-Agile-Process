@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|c:\\4th semester\\devops implementation\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|c:\\4th semester\\devops implementation\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|c:\\4th semester\\devops implementation\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|c:\\4th semester\\devops implementation\\mvcmovie\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{516147A1-E93A-4B12-8A8F-C6624BE4C851}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,33 +74,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
               "ToolTip": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-15T23:59:36.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcMovie\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MvcMovie\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T23:59:19.113Z",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:57:21.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Details.cshtml",
@@ -108,12 +108,11 @@
               "RelativeToolTip": "MvcMovie\\Views\\Movies\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T23:58:25.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:58:25.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\appsettings.json",
               "RelativeDocumentMoniker": "MvcMovie\\appsettings.json",
@@ -121,12 +120,11 @@
               "RelativeToolTip": "MvcMovie\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-15T23:52:44.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:52:44.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MvcMovieContext.cs",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Data\\MvcMovieContext.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Data\\MvcMovieContext.cs",
@@ -134,12 +132,23 @@
               "RelativeToolTip": "MvcMovie\\Data\\MvcMovieContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T23:48:29.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:48:29.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T23:59:19.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20250315234627_InitialCreate.cs",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Migrations\\20250315234627_InitialCreate.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Migrations\\20250315234627_InitialCreate.cs",
@@ -147,12 +156,11 @@
               "RelativeToolTip": "MvcMovie\\Migrations\\20250315234627_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T23:46:28.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:46:28.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
@@ -160,25 +168,11 @@
               "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T23:43:32.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:43:32.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
-              "ToolTip": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
-              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T22:57:21.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T22:40:24.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T22:40:24.623Z"
             },
             {
               "$type": "Document",
@@ -199,8 +192,7 @@
               "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T22:53:21.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T22:53:21.251Z"
             },
             {
               "$type": "Document",
@@ -216,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\4th Semester\\DevOps Implementation\\MvcMovie\\MvcMovie\\Program.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Program.cs",
@@ -224,8 +216,7 @@
               "RelativeToolTip": "MvcMovie\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T22:25:32.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T22:25:32.007Z"
             },
             {
               "$type": "Document",
